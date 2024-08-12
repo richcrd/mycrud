@@ -33,8 +33,4 @@ Este proyecto ha sido una excelente oportunidad para fortalecer conocimientos en
 
 Puedes ver la aplicación en acción visitando el siguiente enlace: [Sistema de Gestión CRUD](https://richcrd.github.io/mycrud/).
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar el proyecto o encuentras algún problema, no dudes en crear un pull request o abrir un issue.
-
 ---
